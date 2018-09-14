@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+.container1 {
+  height: 500px;
+  width: 70%;
+  background-color: #ccc;
+  width: 50%;
+  margin: 50px auto;
+}
+.C {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 120%;
+
+}
+.a {
+  padding: 2px;
+  width: 50%;
+  height: 40%;
+}
+.b {
+  padding: 2px;
+  width: 50%;
+  height: 60%;
+}
+.square3 {
+  height: 100%;
+  width: 100%;
+  color:  white;
+  background-color:rgba(0, 168, 181, 1);
+}
